@@ -1,4 +1,4 @@
-# fake-news-dataset
+# Datasets for Fake News Detection on Social Media
 A Curated List of Datasets for Fake News / Rumor Detection and Analysis on Social Media
 
 ## Source-Reply Graph Classification
