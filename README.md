@@ -15,6 +15,9 @@ https://github.com/cxyccc/CR-Dataset
 * RumorEval 2019
 https://github.com/kochkinaelena/RumourEval2019
 
+* Twitter Dataset
+https://github.com/majingCUHK/Rumor_RvNN
+
 ## Image-Text Source Classification
 * Image Verification Corpus
 https://github.com/MKLab-ITI/image-verification-corpus
@@ -22,8 +25,6 @@ https://github.com/MKLab-ITI/image-verification-corpus
 * Weibo Dataset
 https://github.com/yaqingwang/EANN-KDD18
 
-* Twitter Dataset
-https://github.com/majingCUHK/Rumor_RvNN
 ## Video Classification
 
 * Fake Video Corpus
