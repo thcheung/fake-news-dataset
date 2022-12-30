@@ -1,6 +1,14 @@
 # Datasets for Fake News Detection on Social Media
 A Curated List of Datasets for Fake News / Rumor Detection and Analysis on Social Media
 
+## Social Context-based Classification
+
+* Politifact
+https://github.com/KaiDMML/FakeNewsNet.git
+
+* Gossipcop
+https://github.com/KaiDMML/FakeNewsNet.git
+
 ## Source-Reply Graph Classification
 
 * PHEME Dataset
@@ -15,7 +23,7 @@ https://github.com/cxyccc/CR-Dataset
 * RumorEval 2019
 https://github.com/kochkinaelena/RumourEval2019
 
-* Twitter Dataset
+* Twitter15 and Twitter16
 https://github.com/majingCUHK/Rumor_RvNN
 
 ## Image-Text Source Classification
