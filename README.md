@@ -4,10 +4,10 @@ A Curated List of Datasets for Fake News / Rumor Detection and Analysis on Socia
 ## Social Context-based Classification
 
 * Politifact
-https://github.com/KaiDMML/FakeNewsNet.git
+https://github.com/KaiDMML/FakeNewsNet
 
 * Gossipcop
-https://github.com/KaiDMML/FakeNewsNet.git
+https://github.com/KaiDMML/FakeNewsNet
 
 ## Source-Reply Graph Classification
 
