@@ -40,3 +40,12 @@ https://github.com/MKLab-ITI/fake-video-corpus
 
 * YouTubeAudit Dataset
 https://github.com/social-comp/YouTubeAudit-data
+
+## External Evidence-Based Fact-Checking
+
+* Politifact
+https://github.com/Nicozwy/CofCED
+
+* Snopes
+https://github.com/Nicozwy/CofCED
+
