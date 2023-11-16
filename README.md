@@ -1,15 +1,14 @@
 # Datasets for Fake News Detection on Social Media
 A Curated List of Datasets for Fake News / Rumor Detection and Analysis on Social Media
 
-## Social Context-based Classification
+## Image-Text Multimodal-Source Classification
+* Image Verification Corpus
+https://github.com/MKLab-ITI/image-verification-corpus
 
-* Politifact
-https://github.com/KaiDMML/FakeNewsNet
+* Weibo Dataset
+https://github.com/yaqingwang/EANN-KDD18
 
-* Gossipcop
-https://github.com/KaiDMML/FakeNewsNet
-
-## Source-Reply Graph Classification
+## Source-Reply Propagation-Graph Classification
 
 * PHEME Dataset
 https://github.com/kochkinaelena/Multitask4Veracity
@@ -26,14 +25,15 @@ https://github.com/kochkinaelena/RumourEval2019
 * Twitter15 and Twitter16
 https://github.com/majingCUHK/Rumor_RvNN
 
-## Image-Text Source Classification
-* Image Verification Corpus
-https://github.com/MKLab-ITI/image-verification-corpus
+## Social Context-based Fake News Detection
 
-* Weibo Dataset
-https://github.com/yaqingwang/EANN-KDD18
+* Politifact
+https://github.com/KaiDMML/FakeNewsNet
 
-## Video Classification
+* Gossipcop
+https://github.com/KaiDMML/FakeNewsNet
+
+## Fake Video Classification
 
 * Fake Video Corpus
 https://github.com/MKLab-ITI/fake-video-corpus
@@ -48,4 +48,7 @@ https://github.com/Nicozwy/CofCED
 
 * Snopes
 https://github.com/Nicozwy/CofCED
+
+* PHEME PLUS
+https://github.com/JohnNLP/PhemePlus
 
